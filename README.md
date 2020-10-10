@@ -87,7 +87,8 @@ For more details on those queries, have a look at the
 Assuming you have Go installed, you can install shini by using
 the `go get` method:
 
-        go get -u github.com/5nord/shini
+	cd /tmp
+	go get github.com/5nord/shini
 
 
 ## Wishlist
